@@ -1,0 +1,606 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KraehennestPodcaster\n"
+"POT-Creation-Date: 2012-10-08 16:50+0100\n"
+"PO-Revision-Date: 2012-10-08 16:50+0100\n"
+"Last-Translator: Marc Schieferdecker <m_schieferdecker@hotmail.com>\n"
+"Language-Team: @motorradblogger <m_schieferdecker@hotmail.com>\n"
+"Language: Deutsch/Englisch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: KraehennestPodcaster.php:140
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:135
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:138
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:135
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:139
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:112
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:135
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:135
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:138
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:139
+msgid "Optionen gespeichert!"
+msgstr "Options saved!"
+
+#: KraehennestPodcaster.php:146
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:141
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:144
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:141
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:145
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:118
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:141
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:141
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:144
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:145
+msgid "Ergebnisse des Tests"
+msgstr "Testresults"
+
+#: KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:142
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:145
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:142
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:146
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:119
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:142
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:142
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:145
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:146
+msgid "Teste mit URL"
+msgstr "Testing with URL"
+
+#: KraehennestPodcaster.php:154
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:149
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:149
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:153
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:126
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:149
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:149
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:153
+msgid "Gültiges XML gefunden! Hier die letzten 10 Einträge"
+msgstr "Valid XML found! The last 10 entrys are"
+
+#: KraehennestPodcaster.php:175
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:170
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:170
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:147
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:170
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:170
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:174
+msgid "Kein gültiges XML gefunden"
+msgstr "No valid XML has been found"
+
+#: KraehennestPodcaster.php:180
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:175
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:178
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:175
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:152
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:175
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:175
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:178
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:179
+msgid "Krähennest Podcaster Settings"
+msgstr "Kraehennest Podcaster Settings"
+
+#: KraehennestPodcaster.php:187
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:182
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:182
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:159
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:182
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:182
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:186
+msgid "Allgemeine Optionen"
+msgstr "Basic options"
+
+#: KraehennestPodcaster.php:195
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:190
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:193
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:190
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:194
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:167
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:190
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:190
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:193
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:194
+msgid "HTTP Pfad zur XML Datei des Krähennests"
+msgstr "HTTP path to the XML file of Kraehennest"
+
+#: KraehennestPodcaster.php:201
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:199
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:200
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:173
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:199
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:200
+msgid "Ausgabe über the_meta() oder über internes HTML Template?"
+msgstr "Output through the_meta() or through the internal HTML Template?"
+
+#: KraehennestPodcaster.php:202
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:197
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:200
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:197
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:201
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:174
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:197
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:197
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:200
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:201
+msgid "Ja = intern, Nein = the_meta()"
+msgstr "Yes = internal, no = the_meta()"
+
+#: KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:206
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:206
+msgid "Wo soll der Podcast ausgegeben werden?"
+msgstr "Output podcast to..."
+
+#: KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:208
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:208
+msgid "Nach dem Artikel"
+msgstr "After the post"
+
+#: KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:209
+msgid "Vor dem Artikel"
+msgstr "Before the post"
+
+#: KraehennestPodcaster.php:216
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:202
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:205
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:202
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:215
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:179
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:202
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:202
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:205
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:215
+msgid "Custom Field CSS Anweisungen"
+msgstr "Custom Field CSS instructions"
+
+#: KraehennestPodcaster.php:222
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:208
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:211
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:208
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:221
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:185
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:208
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:208
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:211
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:221
+msgid "HTML Template, wenn keine custom fields verwendet werden"
+msgstr "HTML template, if no custom fields are used"
+
+#: KraehennestPodcaster.php:223
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:212
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:222
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:186
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:212
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:222
+msgid "Platzhalter"
+msgstr "Placeholder"
+
+#: KraehennestPodcaster.php:228
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:214
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:217
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:214
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:227
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:191
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:214
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:214
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:217
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:227
+msgid "XML Datei im Cache behalten (in Sekunden)"
+msgstr "Cache XML file on disk (in seconds)"
+
+#: KraehennestPodcaster.php:234
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:220
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:223
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:220
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:233
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:220
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:220
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:223
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:233
+msgid ""
+"Dateipfad, wo die Cache-Datei abgelegt werden soll (muss beschreibbar sein!)"
+msgstr "Path where the cache file is created (must be writable!)"
+
+#: KraehennestPodcaster.php:235
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:221
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:224
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:221
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:234
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:221
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:221
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:224
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:234
+msgid "Bei Problemen versuchs mal mit diesem Pfad"
+msgstr "Do you have problems? Try this path"
+
+#: KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:229
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:239
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:229
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:239
+msgid "Reihenfolge der Kraehennest Beiträge umdrehen?"
+msgstr "Reverse order of Kraehennest podcasts?"
+
+#: KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:230
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:230
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:240
+msgid "Ja = Reihenfolge umdrehen, Nein = Reihenfolge wie angeliefert"
+msgstr "Yes = reverse order, no = keep original order"
+
+#: KraehennestPodcaster.php:246
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:235
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:245
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:235
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:245
+msgid ""
+"* Zeichenkette, die aus dem Titel des Kraehennest Beitrags entfernt wird "
+"(Fester String oder RegEx)"
+msgstr ""
+"* Character string to remove from the podcast title (fixed string or regular "
+"expression)"
+
+#: KraehennestPodcaster.php:252
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:251
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:251
+msgid ""
+"RegEx, um die Zahlen am Anfang im Titel des Kraehenest Beitrags zu entfernen"
+msgstr ""
+"Regular expression that removes the numbers at the beginning of the podcast "
+"title"
+
+#: KraehennestPodcaster.php:258
+msgid "Nur Podcast-Beiträge beachten, die folgender RegEx entsprechen"
+msgstr "Only use podcast entrys that match the following regular expression"
+
+#: KraehennestPodcaster.php:263
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:246
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:256
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:246
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:256
+msgid ""
+"Die Zeichen oder Zahlen, die aus dem Titel entfernt werden, werden VOR dem "
+"Vergleich mit deinen eigenen Beiträgen entfernt. Dies dient dazu, dass du "
+"den Titel des Kraehennests nicht exakt übernehmen musst, der Automatismus "
+"aber trotzdem noch funktioniert."
+msgstr ""
+"The Characters or numbers will get removed from the podcast title BEFORE the "
+"title is compared to you post title. So you must not keep the title of the "
+"podcast in you post."
+
+#: KraehennestPodcaster.php:266
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:225
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:249
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:225
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:259
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:196
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:225
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:225
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:249
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:259
+msgid "Optionen speichern"
+msgstr "Save options"
+
+#: KraehennestPodcaster.php:277
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:236
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:260
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:236
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:270
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:207
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:236
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:236
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:260
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:270
+msgid "Funktionstest"
+msgstr "Test all functions"
+
+#: KraehennestPodcaster.php:279
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:238
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:262
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:238
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:272
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:238
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:238
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:262
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:272
+msgid "Test der grundlegenden Voraussetzungen für dieses Plugin"
+msgstr "Test of minimum system requirerments for this plugin"
+
+#: KraehennestPodcaster.php:281
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:264
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:274
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:264
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:274
+msgid "allow_url_fopen in der php.ini aktiviert"
+msgstr "allow_url_fopen activated in php.ini"
+
+#: KraehennestPodcaster.php:281
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:264
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:274
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:264
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:274
+msgid "Aktiviert"
+msgstr "activated"
+
+#: KraehennestPodcaster.php:281
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:264
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:274
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:240
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:264
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:274
+msgid "Deaktiviert"
+msgstr "deactivated"
+
+#: KraehennestPodcaster.php:282
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:265
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:275
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:265
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:275
+msgid "Verzeichnis "
+msgstr "Directory"
+
+#: KraehennestPodcaster.php:282
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:265
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:275
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:265
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:275
+msgid "Beschreibbar"
+msgstr "Writable"
+
+#: KraehennestPodcaster.php:282
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:265
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:275
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:241
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:265
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:275
+msgid "Nur lesbar"
+msgstr "Only readable"
+
+#: KraehennestPodcaster.php:284
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:243
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:267
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:243
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:277
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:209
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:243
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:243
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:267
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:277
+msgid ""
+"Hier kannst du testen, ob die in den Optionen angegebene XML Datei des "
+"Krähennests mit deiner Server Konfiguration auch korrekt gelesen werden kann."
+msgstr ""
+"You can now test, if all option values will work for a correct processing of "
+"the Kraehennest XML file."
+
+#: KraehennestPodcaster.php:285
+#: svn/kraehennestpodcaster/tags/1.0.1/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.5/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.3/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.9/KraehennestPodcaster.php:244
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KraehennestPodcaster.php:268
+#: svn/kraehennestpodcaster/tags/1.0.8/KraehennestPodcaster.php:244
+#: svn/kraehennestpodcaster/tags/1.1.1/KraehennestPodcaster.php:278
+#: svn/kraehennestpodcaster/tags/1.0.2/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.4/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KraehennestPodcaster.php:210
+#: svn/kraehennestpodcaster/tags/1.0.7/KraehennestPodcaster.php:244
+#: svn/kraehennestpodcaster/tags/1.0.6/KraehennestPodcaster.php:244
+#: svn/kraehennestpodcaster/tags/1.1.0/KraehennestPodcaster.php:268
+#: svn/kraehennestpodcaster/trunk/KraehennestPodcaster.php:278
+msgid "Den Test starten"
+msgstr "Start test"
+
+#: KP.Widget.php:16 svn/kraehennestpodcaster/tags/1.0.1/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.5/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.3/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.9/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.8/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.1.1/KP.Widget.php:16
+#: svn/kraehennestpodcaster/tags/1.0.2/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.4/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.7/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.0.6/KP.Widget.php:13
+#: svn/kraehennestpodcaster/tags/1.1.0/KP.Widget.php:13
+#: svn/kraehennestpodcaster/trunk/KP.Widget.php:16
+msgid "Krähennest Postcaster Widget. Zeigt die letzte Folge im Widget an."
+msgstr "Kraehennest Podcaster Widget. Shows the last podcast in the widget."
+
+#: KP.Widget.php:28 svn/kraehennestpodcaster/tags/1.0.1/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.1/trunk/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.5/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.3/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.3/trunk/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.9/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.1.0-1/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.8/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.1.1/KP.Widget.php:28
+#: svn/kraehennestpodcaster/tags/1.0.2/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.4/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.4/trunk/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.7/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.0.6/KP.Widget.php:25
+#: svn/kraehennestpodcaster/tags/1.1.0/KP.Widget.php:25
+#: svn/kraehennestpodcaster/trunk/KP.Widget.php:28
+msgid "Neuer Titel"
+msgstr "New title"
+
+#~ msgid "Verzeichnis /wp-content/ durch den Webserver beschreibbar"
+#~ msgstr "Directory /wp-content/ writable through the webserver"
